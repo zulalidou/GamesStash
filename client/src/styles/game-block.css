@@ -1,0 +1,28 @@
+.game-block {
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.game-block:hover .game-name {
+    display: block;
+}
+
+
+.game-link {
+    text-decoration: none;
+    color: black;
+    position: relative;
+}
+
+.game-name {
+    text-align: center;
+    font-family: sans-serif;
+    position: absolute;
+    background-color: black;
+    color: white;
+    top: 0;
+    right: 0;
+    left: 0;
+    display: none;
+}

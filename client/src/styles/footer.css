@@ -1,0 +1,12 @@
+.footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    padding: 5px;
+
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}

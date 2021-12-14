@@ -1,0 +1,60 @@
+.navbar {
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    font-size: 35px;
+}
+
+.navbar-logo {
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 5px;
+    border-radius: 5px;
+}
+
+#navbar-logo-link {
+    text-decoration: none;
+}
+
+
+#website-name-char-1 {
+    color: red;
+}
+
+#website-name-char-2 {
+    color: orange;
+}
+
+#website-name-char-3 {
+    color: yellow;
+}
+
+#website-name-char-4 {
+    color: green;
+}
+
+#website-name-char-5 {
+    color: blue;
+}
+
+#website-name-char-6 {
+    color: indigo;
+}
+
+#website-name-char-7 {
+    color: violet;
+}
+
+#website-name-char-8 {
+    color: #0EA0A9
+}
+
+#website-name-char-9 {
+    color: #9863F2;
+}
+
+#website-name-char-10 {
+    color: #7BF9AC;
+}
